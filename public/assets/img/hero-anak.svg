@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 420" width="480" height="420" role="img" aria-label="Ilustrasi pemantauan tumbuh kembang anak">
+  <!-- background -->
+  <circle cx="240" cy="210" r="185" fill="#EBF6FF"/>
+  <circle cx="400" cy="70" r="14" fill="#5BC8F5" opacity="0.35"/>
+  <circle cx="70" cy="300" r="18" fill="#5BC8F5" opacity="0.25"/>
+  <circle cx="405" cy="330" r="10" fill="#5BC8F5" opacity="0.4"/>
+  <circle cx="60" cy="150" r="9" fill="#1A3A6B" opacity="0.15"/>
+
+  <!-- medical plus badge -->
+  <g transform="translate(70 95)">
+    <rect x="-26" y="-26" width="52" height="52" rx="16" fill="#5BC8F5"/>
+    <rect x="-4" y="-15" width="8" height="30" rx="4" fill="#ffffff"/>
+    <rect x="-15" y="-4" width="30" height="8" rx="4" fill="#ffffff"/>
+  </g>
+
+  <!-- card shadow -->
+  <rect x="108" y="120" width="280" height="190" rx="26" fill="#1A3A6B" opacity="0.08"/>
+  <!-- card -->
+  <rect x="100" y="110" width="280" height="190" rx="26" fill="#ffffff"/>
+
+  <!-- window dots -->
+  <circle cx="126" cy="136" r="5" fill="#5BC8F5"/>
+  <circle cx="142" cy="136" r="5" fill="#5BC8F5" opacity="0.5"/>
+  <circle cx="158" cy="136" r="5" fill="#5BC8F5" opacity="0.3"/>
+
+  <!-- chart area fill -->
+  <path d="M130 270 L130 250 L175 232 L220 242 L265 202 L310 188 L350 158 L350 270 Z" fill="#5BC8F5" opacity="0.18"/>
+  <!-- chart line -->
+  <polyline points="130,250 175,232 220,242 265,202 310,188 350,158" fill="none" stroke="#5BC8F5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- baseline -->
+  <line x1="130" y1="270" x2="350" y2="270" stroke="#1A3A6B" stroke-width="2" opacity="0.15"/>
+  <!-- vertex dots -->
+  <circle cx="130" cy="250" r="5" fill="#1A3A6B"/>
+  <circle cx="220" cy="242" r="5" fill="#1A3A6B"/>
+  <circle cx="310" cy="188" r="5" fill="#1A3A6B"/>
+  <circle cx="350" cy="158" r="6" fill="#ffffff" stroke="#5BC8F5" stroke-width="4"/>
+
+  <!-- heart badge -->
+  <circle cx="360" cy="120" r="30" fill="#ffffff"/>
+  <circle cx="360" cy="120" r="30" fill="#FF6B8A" opacity="0.12"/>
+  <path d="M360 133c-8-6-18-12-18-22 0-6 5-10 10-10 4 0 7 2 8 5 1-3 4-5 8-5 5 0 10 4 10 10 0 10-10 16-18 22z" fill="#FF6B8A"/>
+
+  <!-- toy blocks -->
+  <g transform="translate(150 332)">
+    <rect x="0" y="-30" width="30" height="30" rx="6" fill="#5BC8F5"/>
+    <rect x="34" y="-30" width="30" height="30" rx="6" fill="#1A3A6B"/>
+    <rect x="17" y="-64" width="30" height="30" rx="6" fill="#FF6B8A" opacity="0.85"/>
+  </g>
+</svg>
